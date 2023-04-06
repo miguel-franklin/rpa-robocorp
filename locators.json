@@ -1,0 +1,72 @@
+{
+    "btnOk": {
+        "screenshot": null,
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".btn-dark"
+    },
+    "btnOrder": {
+        "screenshot": ".images/btnorder-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "order"
+    },
+    "btnOrderAnother": {
+        "screenshot": ".images/btnorderanother-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "order-another"
+    },
+    "btnPreview": {
+        "screenshot": ".images/btnpreview-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "preview"
+    },
+    "imageRobotPreview": {
+        "screenshot": ".images/imagerobotpreview-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "robot-preview-image"
+    },
+    "inputAddress": {
+        "screenshot": ".images/inputaddress-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "address"
+    },
+    "inputLegs": {
+        "screenshot": ".images/inputlegs-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//input[@placeholder='Enter the part number for the legs']"
+    },
+    "orderReceipt": {
+        "screenshot": ".images/orderreceipt-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "receipt"
+    },
+    "radioBody": {
+        "screenshot": ".images/radiobody-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "name",
+        "type": "browser",
+        "value": "body"
+    },
+    "selectHead": {
+        "screenshot": ".images/selecthead-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "head"
+    }
+}
